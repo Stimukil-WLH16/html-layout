@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: whitesmoke;
+}
+
+.top-container {
+    padding: 20px;
+    margin: 0;
+    width: 100vw;
+    height: 12%;
+    background-color: lightblue;
+}
+
+.small-box {
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    background-color: blue;
+}
+
+.text-container {
+    padding: 30px;
+    width: 100vw;
+    height: 25%;
+    background-color: cornsilk;
+    font-size: 50px;
+}
+
+.blue-container {
+    width: 100vw;
+    height: 12%;
+    background-color: blue;
+}
+
+.aqua-container {
+    width: 100vw;
+    height: 12%;
+    background-color: aqua;
+}
+
+.beige-container {
+    width: 100vw;
+    height: 12%;
+    background-color: beige;
+}
+
+.yellow-container {
+    width: 100vw;
+    height: 12%;
+    background-color: gold;
+}
